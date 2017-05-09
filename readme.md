@@ -1,8 +1,4 @@
-# **Create a new file in Sublime Text and add the HTML and CSS code shown below.** 
-
-	1. Follow the steps we looked at in the Code Creation Cycle.  
-	2. Play around with the CSS values. 
-	3. Notice that we’ve used more than one way to assign color.
+# **Create a new file in Sublime Text and add the HTML and CSS code shown below.** 	1. Follow the steps we looked at in the Code Creation Cycle. 2. Play around with the CSS values. 3. Notice that we’ve used more than one way to assign color.
 
 
 
